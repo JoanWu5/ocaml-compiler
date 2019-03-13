@@ -1,0 +1,5 @@
+﻿  GenerateCode.cpp
+e:\done\编译原理\task3\generatecode\generatecode\generatecode.cpp(701): warning C4018: “<”: 有符号/无符号不匹配
+e:\done\编译原理\task3\generatecode\generatecode\generatecode.cpp(760): warning C4018: “<”: 有符号/无符号不匹配
+e:\done\编译原理\task3\generatecode\generatecode\generatecode.cpp(406): warning C4715: “ParsePrimary”: 不是所有的控件路径都返回值
+  GenerateCode.vcxproj -> E:\done\编译原理\task3\GenerateCode\Debug\GenerateCode.exe
